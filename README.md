@@ -9,7 +9,6 @@
 [![Telegram Badge](https://img.shields.io/badge/-@ucsus-00acee?style=flat&logo=Telegram&logoColor=white)](https://t.me/ucsus)
 [![VK Badge](https://img.shields.io/badge/-ucsus-blue?style=flat-square&logo=VK&logoColor=white&link=https://www.vk.com/ucsus/)](https://www.vk.com/ucsus/)
 <img src="https://komarev.com/ghpvc/?username=Ucsus" alt="Profile Views:">
-<hr>
 
 ## 👨‍🎓 Education 👨‍🎓
   <br>
@@ -40,7 +39,6 @@
 ## 🛠️ Favourite Tools 🛠️
 
 ### 🤖 Programming and markup languages
-
 <p>
     <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=white"></a>
     <a href="#"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
@@ -52,7 +50,6 @@
 </p>
 
 ### 📚 Frameworks and Libraries
-
 <p>
     <a href="#"><img alt="Gson" src="https://img.shields.io/badge/Gson-000000.svg?logo=java&logoColor=white"></a>  
     <a href="#"><img alt="JUnit" src="https://custom-icon-badges.herokuapp.com/badge/JUnit5-25A162.svg?logo=check-circle&logoColor=white"></a>
@@ -63,7 +60,6 @@
 </p>
 
  ### 🧰 Software and Tools
-
 <p>
     <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
     <a href="#"><img alt="Google Chrome" src="https://img.shields.io/badge/Google%20Chrome-4285F4?logo=GoogleChrome&logoColor=white"></a>
@@ -78,7 +74,6 @@
 </p>
   
  ### 💻 Servers and Operation Systems
-
 <p>
     <a href="#"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white"></a>
     <a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white"></a>
@@ -89,7 +84,6 @@
 <br>  
 
 ## 🔥 Github Stats 🔥
- 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Ucsus&count_private=true&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ucsus&layout=compact)
 
