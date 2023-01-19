@@ -56,12 +56,10 @@
   </details>
 <br>   
 <!-- Tools section -->
-<details>	
-  <summary>🛠️ Favourite Tools 🛠️</summary>
+## 🛠️ Favourite Tools 🛠️
   <br>
- 🤖 Programming and markup languages
-<p>
-</p>  
+ ###🤖 Programming and markup languages
+
 <p>
     <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=white"></a>
     <a href="#"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
