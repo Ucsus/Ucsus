@@ -4,9 +4,7 @@
     <img src="https://komarev.com/ghpvc/?username=ucsus" alt="page views" />
   </a>
 
-<a href="#ucsus-title">
  [![Ucsus's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ucsus)](https://github.com/ucsus/github-readme-stats)
-</a>
 
 - :seedling: &nbsp;I’m currently learning **Java**
 - :speech_balloon: &nbsp;I like to talk about **Homelabbing** and **OSS**
