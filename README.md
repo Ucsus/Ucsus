@@ -8,8 +8,8 @@
 
 - :seedling: &nbsp;I’m currently learning **Java**
 - :speech_balloon: &nbsp;I like to talk about **Homelabbing** and **OSS**
-- :mailbox: &nbsp;Ask me anything on my **[issues page]**
-- :computer: &nbsp;Connect with me on **[LinkedIn]**
+- :mailbox: &nbsp;Задать вопрос можно **[здесь]**
+- :computer: &nbsp;Мой профиль в **[LinkedIn]**
 
 
 <!--
@@ -27,5 +27,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[issues page]: https://github.com/Ucsus/Ucsus/issues "Ucsus/issues"
+[здесь]: https://github.com/Ucsus/Ucsus/issues "Ucsus/issues"
 [linkedin]: https://www.linkedin.com/in/ucsus/ "Ucsus"
