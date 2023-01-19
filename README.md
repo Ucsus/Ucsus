@@ -5,7 +5,7 @@
   </a>
 
 <a href="#ucsus-title">
-  <img src="https://raw.githubusercontent.com/Ucsus/github-stats-transparent/output/generated/overview.svg" alt="ucsus" align="right" />
+ [![Ucsus's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ucsus)](https://github.com/ucsus/github-readme-stats)
 </a>
 
 - :seedling: &nbsp;I’m currently learning **Java**
