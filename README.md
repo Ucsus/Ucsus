@@ -89,11 +89,7 @@
 <br>  
 
 ## 🔥 Github Stats 🔥
-
-    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=Ucsus&theme=react&border=61dafb&hide_border=true" alt="Ucsus" />
-    </a><br>
-    
+ 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Ucsus&count_private=true&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ucsus&layout=compact)](https://github.com/Ucsus/github-readme-stats)
 
@@ -102,8 +98,3 @@
 <h4 align="center">
   <a href="https://github.com/Ucsus?tab=repositories" title="Show Repositories">🔎 Show Repositories 🔍</a>
 </h4>
-</details>
-</h3>  
-
-[здесь]: https://github.com/Ucsus/Ucsus/issues "Ucsus/issues"
-[linkedin]: https://www.linkedin.com/in/ucsus/ "Ucsus"
