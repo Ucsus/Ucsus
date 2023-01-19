@@ -12,7 +12,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-ucsusman@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ucsusman@gmail.com)](mailto:ucsusman@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-ucsus-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ucsus/)](https://www.linkedin.com/in/ucsus/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/ucsus)](https://github.com/ucsus)
-[![Telegram Badge](https://img.shields.io/badge/-@ucsus-00acee?style=flat&logo=Terlegram&logoColor=white)](https://t.me/ucsus)
+[![Telegram Badge](https://img.shields.io/badge/-@ucsus-00acee?style=flat&logo=Telegram&logoColor=white)](https://t.me/ucsus)
 
 - :seedling: &nbsp;I’m currently learning **Java**
 - :speech_balloon: &nbsp;I like to talk about **Homelabbing** and **OSS**
