@@ -15,6 +15,13 @@
 [![Telegram Badge](https://img.shields.io/badge/-@ucsus-00acee?style=flat&logo=Telegram&logoColor=white)](https://t.me/ucsus)
 [![VK Badge](https://img.shields.io/badge/-ucsus-blue?style=flat-square&logo=VK&logoColor=white&link=https://www.vk.com/ucsus/)](https://www.vk.com/ucsus/)
 
+<hr>
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Ucsus&count_private=true&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ucsus&layout=compact)](https://github.com/Ucsus/github-readme-stats)
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=minoveaz)
+
 - :seedling: &nbsp;I’m currently learning **Java**
 - :speech_balloon: &nbsp;I like to talk about **Homelabbing** and **OSS**
 - :mailbox: &nbsp;Задать вопрос можно **[здесь]**
