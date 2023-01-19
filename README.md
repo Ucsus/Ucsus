@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-  <a href="https://github.com/Ucsus/Ucsus">
-    <img src="https://komarev.com/ghpvc/?username=ucsus" alt="page views" />
-  </a>
-
- [![Ucsus's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ucsus)](https://github.com/ucsus/github-readme-stats)
  
  ## Follow Me
 
@@ -20,7 +15,7 @@
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Ucsus&count_private=true&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ucsus&layout=compact)](https://github.com/Ucsus/github-readme-stats)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=minoveaz)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Ucsus)
 
 - :seedling: &nbsp;I’m currently learning **Java**
 - :speech_balloon: &nbsp;I like to talk about **Homelabbing** and **OSS**
