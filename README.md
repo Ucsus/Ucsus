@@ -28,9 +28,8 @@
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Ucsus&count_private=true&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ucsus&layout=compact)](https://github.com/Ucsus/github-readme-stats)
-<!-- Education section -->
-<details>	
-  <summary>👨‍🎓 ###Education 👨‍🎓</summary>
+
+## 👨‍🎓 Education 👨‍🎓
   <br>
   <table width="100%" border='0'>
     <tr>
@@ -44,7 +43,7 @@
 </tr>
 <tr>
     <td width="30%" valign="center">
-        <img src="[images/logo/qa-guru.png](https://github.com/Ucsus/leprosorium.ru/blob/main/src/test/resources/images/logos/gerb-vyatsu-2.png)">
+        <img src="https://github.com/Ucsus/leprosorium.ru/blob/main/src/test/resources/images/logos/qa-guru.png)">
         </td>
         <td valign="middle">School of automation testing engineers
             </br><a target="_blank" href="https://qa.guru">QA.GURU</a>. 
@@ -53,12 +52,12 @@
 </tr>
 </table>
 </br>
-  </details>
+
 <br>   
-<!-- Tools section -->
+
 ## 🛠️ Favourite Tools 🛠️
-  <br>
- ###🤖 Programming and markup languages
+
+### 🤖 Programming and markup languages
 
 <p>
     <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=white"></a>
@@ -68,7 +67,7 @@
     <a href="#"><img alt="PowerShell" src="https://img.shields.io/badge/PowerShell-0078D6?logo=windows&logoColor=white"></a>
 </p>
 
- 📚 Frameworks and Libraries
+### 📚 Frameworks and Libraries
 
 <p>
     <a href="#"><img alt="Gson" src="https://img.shields.io/badge/Gson-000000.svg?logo=java&logoColor=white"></a>  
@@ -79,7 +78,7 @@
     <a href="#"><img alt="Allure" src="https://img.shields.io/badge/Allure-000000.svg?logo=java&logoColor=white"></a>
 </p>
 
- 🧰 Software and Tools
+ ### 🧰 Software and Tools
 
 <p>
     <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
@@ -94,7 +93,7 @@
     <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white"></a>
 </p>
   
- 💻 Servers and Operation Systems
+ ### 💻 Servers and Operation Systems
 
 <p>
     <a href="#"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white"></a>
@@ -104,11 +103,8 @@
     <a href="#"><img alt="Selenoid" src="https://img.shields.io/badge/Selenoid-%230288D1.svg?&logo=Sequelize&logoColor=white"></a>
 </p>
 <br>  
-</details>
-<br> 
-<!-- Github Stats section -->
-<details>	
-  <summary>🔥 Github Stats 🔥</summary>
+
+## 🔥 Github Stats 🔥
 
   <br>
 <p align=center>
@@ -130,7 +126,7 @@
   <a href="#"><img alt="Ucsus's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=Ucsus&bg_color=20232a&color=61dafb&line=61dafb&point=FFFFFF&border=61dafb&hide_border=true" width="100%" /></a>
 </p>
 </br>
-</details>
+
 <br> 
 
 <h4 align="center">
