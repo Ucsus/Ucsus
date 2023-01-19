@@ -5,6 +5,14 @@
   </a>
 
  [![Ucsus's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ucsus)](https://github.com/ucsus/github-readme-stats)
+ 
+ ## Follow Me
+
+
+[![Gmail Badge](https://img.shields.io/badge/-ucsusman@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ucsusman@gmail.com)](mailto:ucsusman@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-minoveaz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ucsus/)](https://www.linkedin.com/in/ucsus/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/ucsus)](https://github.com/ucsus)
+[![Twitter Badge](https://img.shields.io/badge/-@minoveaz-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=minoveaz "Follow on Twitter")
 
 - :seedling: &nbsp;I’m currently learning **Java**
 - :speech_balloon: &nbsp;I like to talk about **Homelabbing** and **OSS**
