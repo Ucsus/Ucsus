@@ -90,10 +90,12 @@
 
 ## 🔥 Github Stats 🔥
 
+    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=Ucsus&theme=react&border=61dafb&hide_border=true" alt="Ucsus" />
+    </a><br>
+    
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Ucsus&count_private=true&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ucsus&layout=compact)](https://github.com/Ucsus/github-readme-stats)
-
-  <a href="#"><img alt="Ucsus's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=Ucsus&bg_color=20232a&color=61dafb&line=61dafb&point=FFFFFF&border=61dafb&hide_border=true" width="100%" /></a>
 
 <br> 
 
