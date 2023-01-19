@@ -3,7 +3,6 @@
  
  ## Follow Me
 
-
 [![Gmail Badge](https://img.shields.io/badge/-ucsusman@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ucsusman@gmail.com)](mailto:ucsusman@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-ucsus-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ucsus/)](https://www.linkedin.com/in/ucsus/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/ucsus)](https://github.com/ucsus)
@@ -12,10 +11,6 @@
 <img src="https://komarev.com/ghpvc/?username=Ucsus" alt="Profile Views:">
 
 <hr>
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Ucsus&count_private=true&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ucsus&layout=compact)](https://github.com/Ucsus/github-readme-stats)
-
 ## 👨‍🎓 Education 👨‍🎓
   <br>
   <table width="100%" border='0'>
@@ -30,7 +25,7 @@
 </tr>
 <tr>
     <td width="30%" valign="center">
-        <img src="https://github.com/Ucsus/leprosorium.ru/blob/main/src/test/resources/images/logos/qa-guru.png)">
+        <img src="https://raw.githubusercontent.com/Ucsus/leprosorium.ru/main/src/test/resources/images/logos/qa-guru.png">
         </td>
         <td valign="middle">School of automation testing engineers
             </br><a target="_blank" href="https://qa.guru">QA.GURU</a>. 
@@ -95,26 +90,10 @@
 
 ## 🔥 Github Stats 🔥
 
-  <br>
-<p align=center>
-  <div align=center>
-    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=Ucsus&theme=react&border=61dafb&hide_border=true" alt="Ucsus" />
-    </a>
-    <a href="https://github.com/Ucsus/github-readme-stats" title="Go to Source">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=Ucsus&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-    </a>
-  </div>
-  <br><br><br><br><br><br><br><br><br>
-  <div align=center>
-    <a href="https://github.com/Ucsus/github-readme-stats">
-      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ucsus&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
-    </a>
-  </div>
-  <br>
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Ucsus&count_private=true&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ucsus&layout=compact)](https://github.com/Ucsus/github-readme-stats)
+
   <a href="#"><img alt="Ucsus's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=Ucsus&bg_color=20232a&color=61dafb&line=61dafb&point=FFFFFF&border=61dafb&hide_border=true" width="100%" /></a>
-</p>
-</br>
 
 <br> 
 
