@@ -4,8 +4,8 @@
     <img src="https://komarev.com/ghpvc/?username=ucsus" alt="page views" />
   </a>
 
-<a href="#macropower-title">
-  <img src="https://raw.githubusercontent.com/MacroPower/github-stats-transparent/output/generated/overview.svg" alt="macropower" align="right" />
+<a href="#ucsus-title">
+  <img src="https://raw.githubusercontent.com/Ucsus/github-stats-transparent/output/generated/overview.svg" alt="ucsus" align="right" />
 </a>
 
 - :seedling: &nbsp;I’m currently learning **Java**
