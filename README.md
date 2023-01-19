@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+  <a href="https://github.com/Ucsus/Ucsus">
+    <img src="https://komarev.com/ghpvc/?username=ucsus" alt="page views" />
+  </a>
+
 <!--
 **Ucsus/Ucsus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
