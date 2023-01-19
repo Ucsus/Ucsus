@@ -9,8 +9,8 @@
 [![Telegram Badge](https://img.shields.io/badge/-@ucsus-00acee?style=flat&logo=Telegram&logoColor=white)](https://t.me/ucsus)
 [![VK Badge](https://img.shields.io/badge/-ucsus-blue?style=flat-square&logo=VK&logoColor=white&link=https://www.vk.com/ucsus/)](https://www.vk.com/ucsus/)
 <img src="https://komarev.com/ghpvc/?username=Ucsus" alt="Profile Views:">
-
 <hr>
+
 ## 👨‍🎓 Education 👨‍🎓
   <br>
   <table width="100%" border='0'>
