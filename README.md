@@ -51,8 +51,8 @@
 
 ### 📚 Frameworks and Libraries
 <p>
-    <a href="#"><img alt="JUnit" src="https://custom-icon-badges.herokuapp.com/badge/JUnit5-25A162.svg?logo=check-circle&logoColor=white"></a>
     <a href="#"><img alt="Selenide" src="https://img.shields.io/badge/Selenide-008CC1?logo=neo4j&logoColor=white"></a>
+    <a href="#"><img alt="JUnit" src="https://custom-icon-badges.herokuapp.com/badge/JUnit5-25A162.svg?logo=check-circle&logoColor=white"></a>
     <a href="#"><img alt="Owner" src="https://img.shields.io/badge/Owner-000000.svg?logo=java&logoColor=white"></a>
     <a href="#"><img alt="Allure" src="https://img.shields.io/badge/Allure-000000.svg?logo=java&logoColor=white"></a>
     <a href="#"><img alt="Faker" src="https://img.shields.io/badge/Faker-000000.svg?logo=java&logoColor=white"></a>
