@@ -51,25 +51,25 @@
 
 ### 📚 Frameworks and Libraries
 <p>
-    <a href="#"><img alt="Gson" src="https://img.shields.io/badge/Gson-000000.svg?logo=java&logoColor=white"></a>  
     <a href="#"><img alt="JUnit" src="https://custom-icon-badges.herokuapp.com/badge/JUnit5-25A162.svg?logo=check-circle&logoColor=white"></a>
-    <a href="#"><img alt="Faker" src="https://img.shields.io/badge/Faker-000000.svg?logo=java&logoColor=white"></a>
     <a href="#"><img alt="Selenide" src="https://img.shields.io/badge/Selenide-008CC1?logo=neo4j&logoColor=white"></a>
     <a href="#"><img alt="Owner" src="https://img.shields.io/badge/Owner-000000.svg?logo=java&logoColor=white"></a>
     <a href="#"><img alt="Allure" src="https://img.shields.io/badge/Allure-000000.svg?logo=java&logoColor=white"></a>
+    <a href="#"><img alt="Faker" src="https://img.shields.io/badge/Faker-000000.svg?logo=java&logoColor=white"></a>
+    <a href="#"><img alt="Gson" src="https://img.shields.io/badge/Gson-000000.svg?logo=java&logoColor=white"></a>  
 </p>
 
  ### 🧰 Software and Tools
 <p>
+    <a href="#"><img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white"></a>
+    <a href="#"><img alt="Gradle" src="https://img.shields.io/badge/Gradle-02303A.svg?logo=Gradle&logoColor=white"></a>
+    <a href="#"><img alt="Selenium" src="https://img.shields.io/badge/-Selenium-%43B02A?logo=selenium&logoColor=white"></a>
     <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
     <a href="#"><img alt="Google Chrome" src="https://img.shields.io/badge/Google%20Chrome-4285F4?logo=GoogleChrome&logoColor=white"></a>
     <a href="#"><img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-aws&logoColor=white"></a>
-    <a href="#"><img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white"></a>
     <a href="#"><img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-143?logo=PyCharm&logoColor=black&color=black&labelColor=green"></a>
     <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-%230db7ed.svg?logo=docker&logoColor=white"></a>
-    <a href="#"><img alt="Gradle" src="https://img.shields.io/badge/Gradle-02303A.svg?logo=Gradle&logoColor=white"></a>
     <a href="#"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white"></a>
-    <a href="#"><img alt="Selenium" src="https://img.shields.io/badge/-Selenium-%43B02A?logo=selenium&logoColor=white"></a>
     <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white"></a>
 </p>
   
