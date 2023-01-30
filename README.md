@@ -28,7 +28,7 @@
         </td>
         <td valign="middle">School of automation testing engineers
             </br><a target="_blank" href="https://qa.guru">QA.GURU</a>. </br>
-            <a href="https://drive.google.com/file/d/1iTlDecUhXgD1zeS49EI1nJ3SKjVD4xrA/view?usp=share_link"><img src="https://i.postimg.cc/MZngySWN/Cert-en.jpg" alt="Certificate" width="250px"></a>
+            <a target="_blank" href="https://drive.google.com/file/d/1iTlDecUhXgD1zeS49EI1nJ3SKjVD4xrA/view?usp=share_link"><img src="https://i.postimg.cc/MZngySWN/Cert-en.jpg" alt="Certificate" width="250px"></a>
         </td>
     </tr>
 </tr>
